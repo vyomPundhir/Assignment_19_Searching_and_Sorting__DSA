@@ -1,3 +1,6 @@
+# DSA Searching and Sorting
+# Assignment 19
+
 Q2. **Count of Smaller Numbers After Self**
 
 Given an integer array `nums`, return *an integer array* `counts` *where* `counts[i]` *is the number of smaller elements to the right of* `nums[i]`.
